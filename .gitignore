@@ -1,0 +1,50 @@
+# ASP.NET Core
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# NuGet
+/packages/
+
+# MSTest
+*.testsettings
+*.runsettings
+
+# Resharper
+_ReSharper*/
+*.resharper*
+
+# User-specific files
+*.user
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# Rider
+.idea/
+
+# Miscellaneous
+*.log
+*.cache
+node_modules/
+npm-debug.log
+
+# Backup files
+~$*
+
+# Docker
+docker-compose*
